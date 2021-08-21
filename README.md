@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NeoEnergyAI
-- 👀 I’m interested in the nexus btween energy transition and data science
+- 👀 I’m interested in the nexus between energy transition and data science
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on projects leveraging data science to promote the energy transition
+- 💞️ I’m looking to collaborate on projects leveraging data science to promote the energy transition and avoid the worst impacts of climate change
 - 📫 How to reach me https://www.linkedin.com/in/johnliang1113/
 
 <!---
